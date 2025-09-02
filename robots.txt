@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://plasmadepot.shop/sitemap.xml
